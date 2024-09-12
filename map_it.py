@@ -2,7 +2,7 @@
 # Project: mapit.py with the webbrowser Module
 import webbrowser, sys, pyperclip
 
-# webbrowser.open('http://thelowry.com')
+# test - webbrowser.open('http://thelowry.com')
 
 # this code will open the map and find the location you type in or copied in clipboard already
 sys.argv
